@@ -15,7 +15,7 @@ torch==2.4.0
 ```
 More details can be found in `env_description.txt`.
 
-# 2. How to use SGRL
+# 2. How to use TFSGFM
 
 To run the node classification experiments using TFSGFM in the mixed homophilic-heterophilic scenario, follow these steps:
 
